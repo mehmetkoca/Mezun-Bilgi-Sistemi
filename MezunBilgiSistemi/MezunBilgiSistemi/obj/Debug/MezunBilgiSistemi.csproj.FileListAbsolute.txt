@@ -1,0 +1,9 @@
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe.config
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csprojResolveAssemblyReference.cache
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Form1.resources
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.Properties.Resources.resources
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.csproj.GenerateResource.Cache
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.exe
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\bin\Debug\MezunBilgiSistemi.pdb
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.exe
+c:\users\onur\documents\visual studio 2015\Projects\MezunBilgiSistemi\MezunBilgiSistemi\obj\Debug\MezunBilgiSistemi.pdb
